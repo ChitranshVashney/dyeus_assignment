@@ -1,0 +1,8 @@
+.boardroomsectionChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 646px;
+  height: 202px;
+}

@@ -1,0 +1,8 @@
+.bombfarmsectionChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 1046px;
+  height: 377.25px;
+}

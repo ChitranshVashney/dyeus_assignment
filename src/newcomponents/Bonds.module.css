@@ -1,0 +1,12 @@
+.bondssectionChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslateblue);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  width: 1045px;
+  height: 186px;
+}
